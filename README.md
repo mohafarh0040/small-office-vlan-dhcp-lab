@@ -78,7 +78,7 @@ interface fa0/1
  switchport access vlan 20
 
 
-🧪 Connectivity Test
+```🧪 Connectivity Test
 
 All PCs successfully obtained IP addresses via DHCP and communicated across VLANs.
 
