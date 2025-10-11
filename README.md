@@ -78,7 +78,9 @@ interface fa0/1
  switchport access vlan 20
 ```
 
-🧪 Connectivity Test
+---
+
+🧪 **Connectivity Test**
 
 All PCs successfully obtained IP addresses via DHCP and communicated across VLANs.
 
@@ -87,9 +89,13 @@ All PCs successfully obtained IP addresses via DHCP and communicated across VLAN
 ✅ Inter-VLAN ping: Success after ARP resolution (0% packet loss)
 
 ## 👋 About Me
-I'm an aspiring **System Administartor** and **Network Security Engineer** with a strong interest in practical, hands-on learning.  
+I'm an aspiring **System Administrator** and **Network Security Engineer** with a strong interest in practical, hands-on learning.  
 I enjoy building and troubleshooting real network environments using tools like **Cisco Packet Tracer**, **Kali Linux**, and **VirtualBox**.  
 
 Currently, I’m developing my technical foundation through certifications such as **CompTIA Security+**, **Network+**, and **Cisco CCST**, while creating personal labs to strengthen my understanding of **network infrastructure** and **cyber defense fundamentals**.  
 
 Each project I post on GitHub represents a step toward mastering **real-world IT and cybersecurity skills** — from networking basics and scripting to ethical hacking and system hardening.
+
+---
+
+📫 Connect with me: (www.linkedin.com/in/farhan-mohamed-54b210167)
