@@ -75,8 +75,8 @@ interface range fa0/2-3
  switchport access vlan 20
 interface fa0/1
  switchport mode access
- switchport access vlan 20 ```.
-
+ switchport access vlan 20
+```
 
 🧪 Connectivity Test
 
