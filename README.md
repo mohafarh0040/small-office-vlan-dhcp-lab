@@ -77,6 +77,14 @@ interface fa0/1
  switchport mode access
  switchport access vlan 20
 
+🧪 Connectivity Test
+
+All PCs successfully obtained IP addresses via DHCP and communicated across VLANs.
+
+✅ VLAN 10 PC0: 192.168.10.11 → Gateway 192.168.10.1 → Success
+✅ VLAN 20 PC2: 192.168.20.10 → Gateway 192.168.20.1 → Success
+✅ Inter-VLAN ping: Success after ARP resolution (0% packet loss)
+
 ## 👋 About Me
 I'm an aspiring **Cybersecurity Analyst** and **Network Technician** with a strong interest in practical, hands-on learning.  
 I enjoy building and troubleshooting real network environments using tools like **Cisco Packet Tracer**, **Kali Linux**, and **VirtualBox**.  
